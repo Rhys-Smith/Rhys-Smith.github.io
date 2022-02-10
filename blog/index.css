@@ -1,0 +1,49 @@
+body{
+    background-color: bisque;
+    text-align: center;
+}
+
+p {
+    font-size: 20pt;
+    margin: 10px 10px 10px 10px;
+    font-family: 'Roboto', sans-serif;
+    color: rgb(0,0,0);
+}
+
+h1{
+    font-family: monospace;
+    font-size: 35pt;
+    margin: 20px 20px 20px 20px;
+    color: rgb(0,0,0);
+}
+div{
+    font-family: monospace;
+    font-size: 20pt;
+    margin: 20px 20px 20px 600px;
+    color: rgb(0,0,0);
+    text-align: center;
+}
+#name {
+    text-align: center;
+    margin-top: 600px;
+}
+
+#name {
+    font-size: 20pt;
+}
+
+.image-size {
+    width: 500px;
+    height: auto;
+  }
+
+  .silver-background {
+    background-color: rgb(227,208,191);
+    width: 700px;
+    }
+
+    .thin-green-border {
+        border-color: green;
+        border-width: 5px;
+        border-style: solid;
+      }
