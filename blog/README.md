@@ -1,1 +1,1 @@
-# Rhys-Smith.github.io/blog
+# Rhys-Smith.github.io
