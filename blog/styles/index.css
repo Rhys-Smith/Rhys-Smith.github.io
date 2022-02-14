@@ -19,7 +19,7 @@ header,footer{
  }
  footer{
      height: 10vh;
-     bottom: 0;
+     bottom: auto;
  }
  footer h2{
      position: absolute;
@@ -44,7 +44,13 @@ p {
     color: black;
     text-align: center;
 }
-
+li {
+    font-size: 12pt;
+    margin: 5px 5px 5px 5px;
+    font-family:  'Roboto', sans-serif;
+    color: black;
+    text-align: center;
+}
 h1{
     font-family: 'Roboto', sans-serif;
     font-size: 30pt;
@@ -65,32 +71,29 @@ div{
     color: black;
     
 }
-.white-background{
-    text-align: center;
-    background-color: white;
-}
+
+    .thin-red-border {
+        background-color: black;
+      }  
 
 #name {
     font-size: 20pt;
     text-align: center;
 }
 
-.image-size {
-    width: 500px;
-    margin: 5px 5px 5px 5px;
-    height: auto;
-    
-  }
+
     .top{
         color: black;
     }
-
-    .ship-image {
-        width: 200px;
-        
+    .example{
+        width: 250px;
+        font-family: 'Roboto', sans-serif;
+        text-align: center;
         height: auto;
-      }
-      
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
       .Me {
         width: 250px;
         font-family: 'Roboto', sans-serif;
